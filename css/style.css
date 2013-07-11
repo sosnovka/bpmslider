@@ -1,0 +1,698 @@
+ul#results   {
+	list-style-type: square;
+	list-style-type: none;
+	margin:0;
+}
+.ft {
+	display: none;
+}
+
+.widgetContainer {
+	background: transparent!important;
+	border:none!important;
+
+}
+
+.widget-override {
+	background: transparent!important;
+	border:none!important;
+
+}
+.genre-nav {
+	margin-bottom: 20px;
+}
+.permalink{
+	display: none;
+}
+
+
+.sc-player ol.sc-trackslist {
+position: absolute;
+float: left;
+width: 92%;
+height: 100%;
+left: 45px;
+top: -22px;
+overflow: auto;
+
+}
+.sc-player ol.sc-trackslist a {
+	font-size:13px;
+}
+
+
+
+/* SC Player Minimal customizations */
+.sc-player {
+width: 100%;
+height: 200px;
+position: relative;
+margin: 20px 0;
+}
+.sc-scrubber .sc-time-span{
+  height: 200px;
+  margin: 5px;
+  position: relative;
+}
+
+.sc-scrubber .sc-buffer, .sc-scrubber .sc-played{
+  height: 200px;
+  position: absolute;
+  top: 0;
+  width: 0;
+  -webkit-transition: width 0.1s linear;
+}
+.sc-scrubber .sc-time-span img {
+  height: 200px;
+  width: 100%;
+  background-color: #555;
+ /* background: url(http://apod.nasa.gov/apod/image/1102/rosette_lula_1700.jpg);*/
+
+}
+.sc-scrubber {
+background:none;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+}
+
+.sc-scrubber .sc-time-span {
+height: 200px;
+margin: 0;
+position: relative;
+top: -150px;
+}
+.sc-scrubber .sc-time-indicators {
+background: none;
+color: #fff;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+padding: 10px;
+font-size: 72px;
+font-weight: normal;
+line-height: 1em;
+}
+.sc-scrubber .sc-time-indicators {
+position: absolute;
+right: 0;
+top: -100px;
+}
+.sc-logo-dark {
+	opacity:.3;
+	float: right;
+	margin-top:-5px;
+	display: none;
+}
+.sc-logo-light {
+	opacity:1;
+}
+.connections {
+	float: right;
+}
+/*.track-info {
+	float: left;
+}*/
+body {
+margin: 0;
+font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-weight:300;
+font-size: 14px;
+line-height: 20px;
+color: #BF736D;
+/*background-color: #EAB3AD;*/
+/*background-image: url('http://1.bp.blogspot.com/-joD2dBLGFys/USHVJhLc0jI/AAAAAAAAKvo/0UqN4b_IWSI/s1600/Nebula_RCW49_04.jpg');*/
+padding-top: 0;
+}
+header {
+/*	position: fixed;
+	height:200px;*/
+	padding-top: 20px;
+}
+.content-wrapper {
+	/*padding-top: 200px;*/
+}
+#results li {
+	/*background-color: #EFCCCA;*/
+	margin-bottom: 5px;
+	padding: 10px;
+	border-radius:4px;
+}
+
+.btn-try-again {
+	background-color: #EFCCCA;
+	margin-bottom: 5px;
+	padding: 10px;
+	border-radius:4px;
+}
+
+#results li.with-player {
+background-color: #eee;
+}
+a.track-title {
+	color:#BF736D;
+	/*font-weight:bold;*/
+	font-size:24px;
+
+}
+#amount {
+	background:none;
+	/*display: none;*/
+}
+.sleepy {
+	float:right;
+	/*margin-top: -5px;*/
+/*	color:#999;*/
+	font-size:16px;
+}
+.overdrive{
+	float: left;
+	/*margin-top: -5px;*/
+/*	color:#999;*/
+	font-size:16px;
+}
+.ui-widget-content {
+border: 1px solid #666;
+background: #FFF url(images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+background:none;
+background-color:#333;
+color: #222;
+}
+h1, h3 {
+	margin-top: 0;
+	font-size:36px;
+	font-weight: 500;
+	margin-bottom: 20px;
+/*	margin-bottom: 10px;
+	font-weight:normal;
+	color:white;
+	font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:100;
+	font-size:48px;*/
+/*	margin-top: 30px;
+	position:absolute;
+	left:-5000px;*/
+}
+h3 {
+	color:white;
+}
+.ui-slider-horizontal {
+height: 20px;
+}
+.ui-slider-horizontal .ui-slider-handle {
+top: 0px;
+margin-left: -.6em;
+}
+.title-description {
+	font-size:24px;
+	position:relative;
+	top:-10px;
+}
+.sc-player {
+font: 12px Arial, sans-serif;
+font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-weight:100;
+color: #333;
+font-size: 1.6em;
+line-height: 1.6em;
+font-weight: bold;
+}
+
+.sc-player ol.sc-trackslist {
+position: absolute;
+float: left;
+width: 92%;
+height: 100%;
+left: 45px;
+top: -22px;
+overflow: auto;
+display: none;
+}
+.nebulas {
+	margin: 0;
+}
+.nebulas li{
+	list-style-type: none;
+	background-color: white;
+	padding:10px;
+	border-radius: 4px;
+	float:left;
+	margin-right: 5px;
+}
+.nebulas li a{
+	color: gray;
+	font-size: 24px;
+}
+h2 {
+	margin-top: 0;
+}
+a:hover {
+	opacity:.7;
+	text-decoration: none;
+}
+.sc-player .sc-controls a,
+.sc-player .sc-controls a:hover {
+/*background-color: gray;*/
+background-repeat: no-repeat;
+height: 50px;
+width: 50px;
+
+}
+
+
+.sc-player.playing .sc-controls a.sc-pause {
+background-image: url('../img/pause.png');
+}
+
+
+
+
+.sc-player .sc-controls a {
+color: rgba(0, 0, 0, 0);
+background-image: url('../img/play.png');
+}
+
+.sc-player .sc-controls a:hover {
+  background-image: url('../img/play-hover.png');
+}
+
+.sc-player .sc-controls a.sc-pause {
+  background-image: url('../img/play.png');
+}
+
+.sc-player .sc-controls a.sc-pause:hover{
+  background-image: url('../img/play-hover.png') ;
+}
+.sc-player.playing .sc-controls a.sc-pause:hover{
+  background-image: url('../img/pause-hover.png') ;
+}  
+
+
+.sc-player .sc-controls {
+position: absolute;
+width: 50px;
+height: 50px;
+top: 0px;
+z-index:100;
+}
+.sc-scrubber {
+  width: 100%;
+  left: 0px;
+}
+.sc-scrubber .sc-time-span {
+background-color: transparent;
+}
+
+.sc-player:hover .sc-scrubber, .sc-player.playing .sc-scrubber {
+display: block;
+left: 0px;
+}
+.choose {
+	font-size:14px;
+	font-weight:300;
+	line-height:16px;
+	margin-top: 0;
+	/*margin-right: 20px;*/
+	/*margin-top: -3px;	*/
+}
+.oops {
+	color:white;
+	font-size:16px;
+
+}
+#loadmoreajaxloader {
+	margin-top: 20px;
+}
+
+/* Color Scheme */
+
+body.orion, 
+body.orion .navbar.navbar-inverse.navbar-fixed-top {
+	background-color: #EAB3AD; /* medium */
+}
+body.orion #results li {
+	background-color: #BF736D; /* dark */
+}
+body.orion .sc-scrubber .sc-time-span img {
+	background-image: url('../img/nebula-orion.jpg') ;
+}
+
+body.orion,
+body.orion a.track-title, 
+body.orion a.track-user-username {
+	color: #EFCCCA; /* light */
+}
+
+body.orion .with-player {
+	color: #EAB3AD; /* medium */
+}
+
+body.orion .with-player a.track-title, 
+body.orion .with-player a.track-user-username, 
+body.orion .nebulas li a {
+	color: #BF736D; /* dark */
+}
+
+body.orion .nebulas li {
+	background-color: #EFCCCA; /* light */
+}
+
+body.orion .sc-player .sc-controls a, 
+body.orion .sc-player .sc-controls a:hover {
+	background-color: #BF736D; /* dark */
+}
+
+
+
+
+body.carina, 
+body.carina .navbar.navbar-inverse.navbar-fixed-top {
+	background-color: #9B7067; /* medium */
+}
+body.carina #results li {
+	background-color: #7A4135; /* dark */
+}
+body.carina .sc-scrubber .sc-time-span img {
+	background-image: url('../img/nebula-supernova.jpg') ;
+}
+
+body.carina,
+body.carina a.track-title, 
+body.carina a.track-user-username {
+	color: #BDA09A; /* light */
+}
+
+body.carina .with-player {
+	color: #9B7067; /* medium */
+}
+
+body.carina .with-player a.track-title, 
+body.carina .with-player a.track-user-username, 
+body.carina .nebulas li a {
+	color: #7A4135; /* dark */
+}
+
+body.carina .nebulas li {
+	background-color: #BDA09A; /* light */
+}
+
+body.carina .sc-player .sc-controls a, 
+body.carina .sc-player .sc-controls a:hover {
+	background-color: #7A4135; /* dark */
+}
+
+
+
+
+
+body.eagle, 
+body.eagle .navbar.navbar-inverse.navbar-fixed-top {
+	background-color: #918398; /* medium */
+}
+body.eagle #results li {
+	background-color: #6D5976; /* dark */
+}
+body.eagle .sc-scrubber .sc-time-span img {
+	background-image: url('../img/nebula-swan.jpg') ;
+}
+
+body.eagle,
+body.eagle a.track-title, 
+body.eagle a.track-user-username {
+	color: #B6ACBB; /* light */
+}
+
+body.eagle .with-player {
+	color: #918398; /* medium */
+}
+
+body.eagle .with-player a.track-title, 
+body.eagle .with-player a.track-user-username, 
+body.eagle .nebulas li a {
+	color: #6D5976; /* dark */
+}
+
+body.eagle .nebulas li {
+	background-color: #B6ACBB; /* light */
+}
+
+body.eagle .sc-player .sc-controls a, 
+body.eagle .sc-player .sc-controls a:hover {
+	background-color: #6D5976; /* dark */
+}
+
+
+
+body.crab, 
+body.crab .navbar.navbar-inverse.navbar-fixed-top {
+	background-color: #7590A9; /* medium */
+}
+body.crab #results li {
+	background-color: #476B8C; /* dark */
+}
+body.crab .sc-scrubber .sc-time-span img {
+	background-image: url('../img/nebula-superbubble.jpg') ;
+}
+
+body.crab,
+body.crab a.track-title, 
+body.crab a.track-user-username {
+	color: #A3B5C5; /* light */
+}
+
+body.crab .with-player {
+	color: #7590A9; /* medium */
+}
+
+body.crab .with-player a.track-title, 
+body.crab .with-player a.track-user-username, 
+body.crab .nebulas li a {
+	color: #476B8C; /* dark */
+}
+
+body.crab .nebulas li {
+	background-color: #A3B5C5; /* light */
+}
+
+body.crab .sc-player .sc-controls a, 
+body.crab .sc-player .sc-controls a:hover {
+	background-color: #476B8C; /* dark */
+}
+
+
+
+
+body.omega, 
+body.omega .navbar.navbar-inverse.navbar-fixed-top {
+	background-color: #8F8A67; /* medium */
+}
+body.omega #results li {
+	background-color: #6A6334; /* dark */
+}
+body.omega .sc-scrubber .sc-time-span img {
+	background-image: url('../img/nebula-star-cradle.jpg') ;
+}
+
+body.omega,
+body.omega a.track-title, 
+body.omega a.track-user-username {
+	color: #B5B199; /* light */
+}
+
+body.omega .with-player {
+	color: #8F8A67; /* medium */
+}
+
+body.omega .with-player a.track-title, 
+body.omega .with-player a.track-user-username, 
+body.omega .nebulas li a {
+	color: #6A6334; /* dark */
+}
+
+body.omega .nebulas li {
+	background-color: #B5B199; /* light */
+}
+
+body.omega .sc-player .sc-controls a, 
+body.omega .sc-player .sc-controls a:hover {
+	background-color: #6A6334; /* dark */
+}
+
+
+
+
+body.flame, 
+body.flame .navbar.navbar-inverse.navbar-fixed-top {
+	background-color: #CB7A72; /* medium */
+}
+body.flame #results li {
+	background-color: #BA4E43; /* dark */
+}
+body.flame .sc-scrubber .sc-time-span img {
+	background-image: url('../img/nebula-star-clusters.jpg') ;
+}
+
+body.flame,
+body.flame a.track-title, 
+body.flame a.track-user-username {
+	color: #DDA7A1; /* light */
+}
+
+body.flame .with-player {
+	color: #CB7A72; /* medium */
+}
+
+body.flame .with-player a.track-title, 
+body.flame .with-player a.track-user-username, 
+body.flame .nebulas li a {
+	color: #BA4E43; /* dark */
+}
+
+body.flame .nebulas li {
+	background-color: #DDA7A1; /* light */
+}
+
+body.flame .sc-player .sc-controls a, 
+body.flame .sc-player .sc-controls a:hover {
+	background-color: #BA4E43; /* dark */
+}
+#results li.with-player {
+	background-color: #eee!important;
+}
+.social-button {
+	float:left;
+	margin-right: 10px;
+}
+h3.warning {
+	display: none;
+}
+.sc-logo-api {
+	position: relative;
+	top:-8px;
+}
+.connections {
+	margin-top: 20px;
+	margin-top: 20px;
+	right: 20px;
+}
+.social-buttons-row {
+/*height: 65px;*/
+float:right;
+}
+@-moz-document url-prefix() {
+    h3.warning {
+        display:block;
+    }
+}
+.psynebula-logo {
+	float: left;
+	margin-right: 5px;
+	margin-top: 20px;
+}
+h3.choose {
+	color:white;
+}
+
+@media (max-width: 1224px) {
+	header .buttons {
+		display: none!important;
+	}
+
+	header .logo {
+		width: 35% !important;
+	}
+
+	header .span6 {
+		width: 62% !important;
+	}
+}
+
+@media (max-width: 878px) {
+	h2 {
+		font-size:24px;
+	}
+	header .logo {
+		width: 100% !important;
+		margin-bottom: 10px!important;
+		float: left!important;
+	}
+
+	header .span6 {
+		width: 100% !important;
+		margin-left:0!important;
+	}
+	ul.nebulas li a {
+		font-size: 13px;
+		color:white;
+	}
+	ul.nebulas li {
+		/*float:none;*/
+		/*width:42.2%;*/
+		margin-bottom: 5px;
+		/*margin-right: 0;*/
+	}
+	ul.nebulas li a {
+		width:100%;
+	}
+	a.track-title {
+		font-size:16px;
+		display: block;
+		font-weight: bold;
+	}
+	.sc-scrubber .sc-time-indicators {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1em;
+	}
+	.title-description {
+		display: none;
+	}
+	.psynebula-logo {
+	float: left;
+	margin-right: 5px;
+	margin-top: -9px;
+	}
+
+	/*h3.choose {
+	text-align: center
+	}*/
+	.sc-player {
+	width: 100%;
+	height: 100px;
+	position: relative;
+	margin: 20px 0;
+	}
+	.sc-scrubber .sc-time-span img {
+	height: 100px;
+	width: 100%;
+	background-color: #555;
+	}
+	.sc-scrubber .sc-buffer, .sc-scrubber .sc-played {
+	height: 100px;
+	}
+	.sc-scrubber .sc-time-span {
+	height: 100px;
+	margin: 0;
+	position: relative;
+	top: -50px;
+	}
+	.sc-scrubber .sc-time-indicators {
+	right: 20px;
+	top: -20px;
+	}
+	.sc-logo-dark {
+	/*display:none!important;*/
+	margin-top: -20px;
+
+	}
+}
+
+@media (max-width: 440px) {
+	ul.nebulas li a {
+		font-size: 13px;
+		color:white;
+	}
+	ul.nebulas li {
+		padding: 5px;
+		
+	}
+}

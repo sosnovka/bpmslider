@@ -1,0 +1,854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"li",
+				"list	list-style-type"
+			],
+			[
+				"with",
+				"with-player"
+			],
+			[
+				"slider",
+				"sliderValue"
+			],
+			[
+				"filt",
+				"filterTracks"
+			],
+			[
+				"tr",
+				"track_type"
+			],
+			[
+				"down",
+				"downloadbleStatus"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"story",
+				"storyIdTitle1"
+			],
+			[
+				"block",
+				"block-title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sc-player-minimal/colors.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sc-player-minimal/standards.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sc-player-minimal/structure.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/sc-player.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/penta/Downloads/jquery-endless-scroll-master/src/jquery.endless-scroll.coffee",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/penta/Downloads/infinite-scroll-master/Readme.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.infinitescroll.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/penta/Downloads/infinite-scroll-master/test/index3.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/penta/Sites/apollo4/allsides2/sites/localhost.allsides4/settings.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/default/default.settings.php",
+		"/Users/penta/Downloads/infinite-scroll-master/behaviors/manual-trigger.js",
+		"/Users/penta/Downloads/infinite-scroll-master/test/mobile2.json",
+		"/Users/penta/Sites/fxnebula/css/sc-player-minimal.css",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/footer.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/html-before-content.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/functions/init.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/functions.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/functions/init-data.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/static-header.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/header.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/js/main9rox.js",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/css/bootstrap-responsive.css",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/page.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/page-5.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/page-140.php",
+		"/Applications/acquia-drupal/mysql/my.cnf",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/js/main.js",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/functions/shortcodes.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/html-before-content-140.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/page.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/social-icons.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/html-after-content.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/category-4.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/js/nivo-slider.js",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/slider-nivo.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/includes/static-header.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/includes/post-template.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/functions/functions-general.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/functions/functions-general.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/post-template.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/functionsXXX.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/includes/html-before-content.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/includes/slider-nivo.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/single.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/functions.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/js/bootstrap.js",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/js/nivo-slider.js",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/includes/slider-nivo-content.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/header.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/footer.php",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/templates/semanticviews-view-fields--logged-in-user-.tpl.php",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/templates/views-view.tpl.php",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/templates/semanticviews-view-unformatted.tpl.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/includes/html-after-content.php",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/templates/node--allsides-news-item.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/page--home.tpl.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/style.css",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/functions/shortcodes.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild/functions/formatting-buttons/editor-plugin.js",
+		"/Users/penta/Documents/All Sides/assets/inprocess.html",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/template.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/allsides_issue/allsides_issue.info",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/allsides_qt_tweak/steps/lookandfeel.module.01.theme-item-list.step",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/allsides_qt_tweak/allsides_qt_tweak.info",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/lookandfeel/lookandfeel.info",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/lookandfeel/lookandfeel.module",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/allsides_qt_tweak/allsides_qt_tweak.module",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/quicktabs/includes/quicktabs_style_plugin.inc",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/quicktabs/quicktabs.module",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/quicktabs/quicktabs_tabstyles/quicktabs_tabstyles.module",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/includes/css-loader.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/css/prettyPhoto.css",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/includes/slider-thumbnail.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore/functions/formatting-buttons/editor-plugin.js",
+		"/Users/penta/Documents/Lessons/buildamodule-resource-pack/D7 Dev Core Concepts/lookandfeel/lookandfeel.module",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/allsides_issue/allsides_issue.module",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/better_exposed_filters/better_exposed_filters.module",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/better_exposed_filters/better_exposed_filters.theme",
+		"/Users/penta/Documents/Lessons/buildamodule-resource-pack/D7 Dev Core Concepts/lookandfeel/lookandfeel.info",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/css/allsides-header.css",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/css/bootstrap.css",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/page_header.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/quicktabs/quicktabs.api.php",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/template.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/quicktabs/quicktabs.views.inc",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/quicktabs/quicktabs.info",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/allsides.info",
+		"/Users/penta/Downloads/bootstrap (1)/css/bootstrap.css",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-view--story-id-list--block-list.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/semanticviews-view-fields--story-id-list--block-list.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-view--story-id-list.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-view--story-id-list--block.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-limit-grouping--story-id-list--block.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/semanticviews-view-unformatted.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/semanticviews-view-fields--story-id-list--block.tpl.php",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/js/allsides-functions.js",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-view.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/html.tpl.php",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/templates/page--node--3649.tpl.php",
+		"/Users/penta/Downloads/Ex_Files_Resp_Des_Drupal/Exercise Files/Final/sites/all/themes/responsive/template.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/includes/process.inc",
+		"/Users/penta/Downloads/Ex_Files_Resp_Des_Drupal/Exercise Files/Final/sites/all/themes/responsive/responsive.info",
+		"/Users/penta/Sites/Temp/sites/all/themes/allsides/css/allsides.css",
+		"/Users/penta/Downloads/Ex_Files_Resp_Des_Drupal/Exercise Files/Final/sites/all/themes/responsive/templates/pages/page.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/page--user.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/page--allsides-news-item.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/node--allsides-news-item.tpl.php",
+		"/Users/penta/Downloads/index_mod.php",
+		"/Users/penta/Downloads/index_mod (2).php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/semanticviews-view-fields--logged-in-user-.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-view--logged-in-user-.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/page--node--3652.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/page--taxonomy.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-limit-grouping--story-id-list--attachment.tpl.php",
+		"/Users/penta/Downloads/index_mod (1).php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/page--iframe.tpl.php",
+		"/Applications/MAMP/htdocs/9rox/wp-content/themes/retlehs-roots-43f44a4/README.md",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/js/wookmark/example/index.html",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/js/wookmark/example/js/jquery.wookmark.js",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates/views-limit-grouping--story-id-list.tpl.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/heartbeat/heartbeat.entity.inc",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/heartbeat/heartbeat.pages.inc",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/heartbeat/js/heartbeat.js",
+		"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/heartbeat/heartbeat.module",
+		"/Applications/MAMP/bin/php/php5.4.4/conf/php.ini",
+		"/Users/penta/Sites/apollo4/allsides2/sites/allsides2/settings.php",
+		"/Users/penta/Sites/apollo4/allsides2/sites/allsides4/settings.php",
+		"/Users/penta/Sites/apollo/allsides2/sites/allsides5/settings.php",
+		"/Users/penta/Sites/apollo/allsides2/sites/allsides2/settings.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore",
+			"echo '<div  class=\"lead-page-wrapper\" ><div  class=\"page-wrapper\" ><h1 class=\"homepage-lead\"><span class=\"nine\">9</span><span class=\"rox\">rox</span> is a graphic design and web development studio of <br>Nikita Tselovalnikov, specializing in branding, corporate identity, and building social applications using Drupal and Wordpress.</h1></div></div>'; }\n,/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore",
+			"echo '<div  class=\"lead-page-wrapper\" ><div  class=\"page-wrapper\" ><h1 class=\"homepage-lead\"><span class=\"nine\">9</span><span class=\"rox\">rox</span> is a graphic design and web development studio of <br>Nikita Tselovalnikov, specializing in branding, corporate identity, and building social applications using Drupal and Wordpress.</h1></div></div>'; }\n/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore",
+			"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermorechild",
+			"/Applications/MAMP/htdocs/9rox/wp-content/themes/evermore",
+			"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/quicktabs",
+			"/Users/penta/Sites/apollo4/allsides2/sites/all/themes/allsides/templates",
+			"/Users/penta/Sites/apollo4/allsides2/sites/all/modules/heartbeat"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"infiniteScroll",
+			"$('body').attr('data",
+			"finished",
+			"console.log",
+			"playFirstTrack",
+			"addclass",
+			"playFirstTrack",
+			"random",
+			"sound",
+			"init",
+			"randomizeTracks",
+			"playFirstTrack",
+			"randomizeTracks();",
+			"loadmoreajaxloader",
+			"oops",
+			"There is a problem",
+			"choo",
+			"h3",
+			"psy",
+			"populate",
+			"populate(filterTracks, nebula);	",
+			"err",
+			"soundcloud",
+			"$.browser",
+			"current-nebula",
+			"init-nebula",
+			"populate",
+			"try again",
+			".with-player",
+			"with-",
+			"#eee",
+			"return",
+			"infinitescroll",
+			"new",
+			"try",
+			"next",
+			"omega",
+			"flame",
+			"crab",
+			"eagle",
+			"carina",
+			".orion",
+			"orion",
+			"call",
+			"apply",
+			"infiniteScroll",
+			"callColorScheme",
+			"nebulaForScroll",
+			"playFirstTrack",
+			"insertPlayer",
+			"callColorScheme",
+			"$('#results').html",
+			"populate",
+			"insertPlayer",
+			"paintScrubber",
+			"infiniteScroll",
+			"console.log",
+			"age",
+			"cache",
+			"max",
+			"try-aga",
+			"infinteScroll",
+			"psy",
+			"btn-nebula",
+			"onMediaEnd",
+			"track finished get the next one",
+			"click",
+			"trigger",
+			"sliderValue",
+			"callColorScheme",
+			"sliderValue",
+			"click",
+			"mouse",
+			"mousee",
+			".sc-player",
+			"hover",
+			"paintScrubber",
+			"%",
+			"addclass",
+			"psy",
+			"callColorScheme",
+			"addclass",
+			"insert",
+			"amount",
+			"bpm",
+			"day",
+			"results",
+			"100px",
+			"mouse",
+			"30px",
+			"50px",
+			"oEmbed",
+			"deleteContainer",
+			"$('#placeholder-wrapper .sc-player').remove();",
+			"onPlayerTrackFinish",
+			"onPlayer",
+			"sc-player",
+			"track",
+			"button",
+			"$self",
+			"limit",
+			"../assets/",
+			".carousel .active",
+			"left",
+			"next",
+			"item",
+			"506",
+			"window",
+			".carousel",
+			"figure",
+			"carousel",
+			"#carousel",
+			"carousel",
+			"cube-carousel",
+			"figure",
+			"#cube-carousel",
+			"figure",
+			"panel-count",
+			"#theblaze-slider",
+			"h3",
+			"cube-slider",
+			"img-frame",
+			"custom-editor",
+			"html",
+			"nivo-wrapper",
+			"nivo-caption",
+			"nivo-imageLink",
+			"directionNavHide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/sc-player-minimal/colors.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/sc-player-minimal/standards.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/sc-player-minimal/structure.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "js/script.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/sc-player.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/penta/Downloads/jquery-endless-scroll-master/src/jquery.endless-scroll.coffee",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/penta/Downloads/infinite-scroll-master/Readme.md",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "js/jquery.infinitescroll.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/penta/Downloads/infinite-scroll-master/test/index3.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.360017903646,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 359.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/penta/Downloads/jquery-endless-scroll-master/src/jquery.endless-scroll.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
